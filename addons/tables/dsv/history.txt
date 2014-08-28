@@ -1,0 +1,4 @@
+text/delimited - change history
+
+== 1.0.0/4 ==
+ * publish in JAL

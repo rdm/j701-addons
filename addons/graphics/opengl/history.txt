@@ -1,0 +1,25 @@
+graphics/opengl - change history
+
+== 1.0.0 ==
+ * copy J6 as J701 addon
+
+== 1.0.1/7 ==
+ * J701
+
+== 1.0.8 ==
+ * use jglcanvas
+
+== 1.0.9 ==
+ * jgtk not coinsert
+
+== 1.0.10/12 ==
+ * gtk+3 compatible
+
+== 1.0.14 ==
+ * disable osMesa
+
+== 1.0.15 ==
+ * s/wdinfo/sminfo/
+
+== 1.0.16 ==
+ * cover verb for wd query cmds

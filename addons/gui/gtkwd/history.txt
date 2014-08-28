@@ -1,0 +1,13 @@
+gui/gtkwd - change history
+
+== 1.0.0/42 ==
+ * initial import
+
+== 1.0.43 ==
+ * compatible with droidwd
+
+== 1.0.44 ==
+ * cover verb for wd query cmds
+
+== 1.0.45 ==
+ * ignore qt cmd: bin setp wh and qtwd style
